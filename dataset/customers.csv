@@ -1,0 +1,201 @@
+customer_id,customer_name,city,country,signup_date
+C001,Michael Thompson,London,UK,2023-05-21
+C002,Anthony Miller,Berlin,Germany,2023-03-13
+C003,Timothy Martin,London,UK,2023-02-14
+C004,Daniel White,Singapore,Singapore,2023-01-17
+C005,Ashley Brown,New York,USA,2023-04-22
+C006,Margaret Thomas,Berlin,Germany,2023-11-05
+C007,Sarah Perez,New York,USA,2023-04-12
+C008,Elizabeth Scott,Dubai,UAE,2023-04-23
+C009,Patricia Young,Tokyo,Japan,2023-05-23
+C010,Joseph Nguyen,New York,USA,2023-12-24
+C011,Thomas White,Sydney,Australia,2023-05-23
+C012,Steven Brown,Madrid,Spain,2023-06-22
+C013,Thomas Taylor,London,UK,2023-07-14
+C014,Joseph Davis,London,UK,2023-06-26
+C015,Nancy Johnson,Singapore,Singapore,2023-01-23
+C016,George Young,Tokyo,Japan,2023-03-05
+C017,Christopher Wilson,Sydney,Australia,2023-10-10
+C018,James Nguyen,Paris,France,2023-07-05
+C019,Betty Clark,Singapore,Singapore,2023-12-27
+C020,John Hill,London,UK,2023-12-05
+C021,Anthony Nguyen,Berlin,Germany,2023-02-10
+C022,William Ramirez,Berlin,Germany,2023-07-14
+C023,Thomas Walker,Paris,France,2023-11-22
+C024,Matthew Wilson,Toronto,Canada,2023-07-09
+C025,Elizabeth Lopez,Toronto,Canada,2023-12-10
+C026,Susan Lopez,Paris,France,2023-11-08
+C027,Christopher Scott,Madrid,Spain,2023-05-06
+C028,Paul Lewis,Madrid,Spain,2023-07-14
+C029,Paul Davis,Paris,France,2023-04-23
+C030,Christopher Smith,Toronto,Canada,2023-04-28
+C031,Mary Ramirez,New York,USA,2023-07-25
+C032,James Davis,Paris,France,2023-04-19
+C033,Jennifer Torres,Singapore,Singapore,2023-04-19
+C034,Kevin Jones,Tokyo,Japan,2023-11-26
+C035,Michael Allen,Tokyo,Japan,2023-05-16
+C036,Robert Miller,Madrid,Spain,2023-10-15
+C037,Donald Jones,Dubai,UAE,2023-10-27
+C038,Elizabeth Martinez,Sydney,Australia,2023-07-24
+C039,James Perez,Toronto,Canada,2023-03-12
+C040,Lisa Clark,Dubai,UAE,2023-02-16
+C041,Daniel Clark,New York,USA,2023-03-20
+C042,William Hill,Madrid,Spain,2023-11-02
+C043,Sandra Smith,London,UK,2023-07-15
+C044,Ashley Moore,Singapore,Singapore,2023-09-28
+C045,Jessica Martinez,Paris,France,2023-01-06
+C046,Jennifer Miller,London,UK,2023-05-17
+C047,Sarah Brown,Toronto,Canada,2023-05-31
+C048,Elizabeth Perez,Sydney,Australia,2023-08-21
+C049,Kimberly Hill,New York,USA,2023-09-14
+C050,Steven Johnson,Madrid,Spain,2023-02-24
+C051,Melissa Martin,Paris,France,2023-11-08
+C052,James Ramirez,Berlin,Germany,2023-07-11
+C053,Sarah Martinez,Madrid,Spain,2023-09-29
+C054,Daniel Scott,New York,USA,2023-06-15
+C055,David Thompson,Tokyo,Japan,2023-02-27
+C056,Lisa Garcia,Toronto,Canada,2023-05-03
+C057,Joshua Lee,New York,USA,2023-10-18
+C058,Ashley Wright,London,UK,2023-09-06
+C059,Donna Hernandez,London,UK,2023-03-06
+C060,Sarah Lopez,Madrid,Spain,2023-10-09
+C061,Kenneth Brown,Madrid,Spain,2023-09-28
+C062,Sandra Nguyen,Singapore,Singapore,2023-04-19
+C063,Timothy Robinson,Dubai,UAE,2024-01-01
+C064,Brian Thompson,Paris,France,2023-12-10
+C065,Andrew Torres,Toronto,Canada,2023-09-22
+C066,Kevin White,Tokyo,Japan,2023-05-07
+C067,Nancy Brown,Berlin,Germany,2023-06-23
+C068,David Williams,New York,USA,2023-10-11
+C069,Donna Robinson,Berlin,Germany,2023-04-23
+C070,Emily Hill,New York,USA,2023-12-29
+C071,Brian Smith,New York,USA,2023-02-04
+C072,David Davis,New York,USA,2023-02-06
+C073,Matthew Hill,Dubai,UAE,2023-05-23
+C074,Sarah Thomas,Tokyo,Japan,2023-10-04
+C075,Kevin Clark,Madrid,Spain,2023-10-23
+C076,Steven Garcia,Tokyo,Japan,2023-08-31
+C077,Melissa Lewis,Sydney,Australia,2023-02-18
+C078,Thomas Scott,London,UK,2023-07-01
+C079,Karen Thompson,Sydney,Australia,2023-08-28
+C080,George Hill,New York,USA,2023-02-01
+C081,Linda Martin,Sydney,Australia,2023-02-25
+C082,Charles Jones,Berlin,Germany,2023-04-08
+C083,Daniel Martin,Dubai,UAE,2023-03-13
+C084,Sandra Anderson,Sydney,Australia,2023-05-23
+C085,Steven Martinez,Tokyo,Japan,2023-02-08
+C086,John Lewis,Tokyo,Japan,2023-02-20
+C087,Jennifer Robinson,New York,USA,2023-01-08
+C088,Kimberly Scott,London,UK,2023-03-27
+C089,Betty Lee,Sydney,Australia,2023-09-04
+C090,Linda Martinez,Berlin,Germany,2023-01-31
+C091,Kenneth Thomas,Madrid,Spain,2023-01-02
+C092,Lisa Jackson,Sydney,Australia,2023-08-21
+C093,Paul Harris,Paris,France,2023-12-23
+C094,Kimberly Rodriguez,Dubai,UAE,2023-03-21
+C095,Jennifer Martin,Berlin,Germany,2023-04-22
+C096,Jennifer Smith,New York,USA,2023-10-05
+C097,Donald Allen,New York,USA,2023-01-30
+C098,William Rodriguez,New York,USA,2023-09-02
+C099,Jennifer King,Dubai,UAE,2023-03-22
+C100,Steven Nguyen,New York,USA,2023-02-11
+C101,Richard Brown,Madrid,Spain,2023-11-01
+C102,Jennifer Perez,London,UK,2023-07-26
+C103,Susan Jones,London,UK,2023-05-07
+C104,Donna Smith,Singapore,Singapore,2023-01-21
+C105,Kevin Flores,Singapore,Singapore,2023-08-03
+C106,Christopher Allen,Singapore,Singapore,2023-09-25
+C107,Joshua Brown,Toronto,Canada,2023-04-15
+C108,David Garcia,Toronto,Canada,2023-05-16
+C109,Susan Ramirez,Sydney,Australia,2023-12-10
+C110,James Thomas,Paris,France,2023-06-11
+C111,Carol Clark,London,UK,2023-08-23
+C112,Linda Scott,Singapore,Singapore,2023-02-21
+C113,Deborah Torres,London,UK,2023-04-20
+C114,Kenneth Perez,Dubai,UAE,2023-03-09
+C115,Mark Ramirez,Toronto,Canada,2023-05-06
+C116,Joshua Hill,Toronto,Canada,2023-03-22
+C117,Ashley Torres,Tokyo,Japan,2023-12-27
+C118,Dorothy Thomas,Paris,France,2023-12-01
+C119,Mary Moore,Dubai,UAE,2023-12-08
+C120,Donald Thompson,Dubai,UAE,2023-12-06
+C121,Susan Young,London,UK,2023-05-16
+C122,Michael Brown,London,UK,2023-10-11
+C123,Joshua Wilson,Madrid,Spain,2023-05-25
+C124,Robert Thompson,Singapore,Singapore,2023-06-25
+C125,Mark Robinson,Berlin,Germany,2023-09-16
+C126,Elizabeth Nguyen,Tokyo,Japan,2023-01-27
+C127,Kenneth Johnson,London,UK,2023-05-22
+C128,Jessica Scott,New York,USA,2023-06-20
+C129,Amanda Thomas,Madrid,Spain,2023-03-24
+C130,George Martin,Tokyo,Japan,2023-12-28
+C131,Mary Thomas,Sydney,Australia,2023-01-05
+C132,Lisa Thompson,London,UK,2023-12-20
+C133,Mary Garcia,Madrid,Spain,2023-01-19
+C134,Dorothy Miller,Toronto,Canada,2023-10-10
+C135,William Perez,Madrid,Spain,2023-03-07
+C136,Charles Wright,New York,USA,2023-07-06
+C137,Richard Clark,New York,USA,2023-04-18
+C138,Karen Wright,Berlin,Germany,2023-07-01
+C139,John Flores,Dubai,UAE,2023-11-14
+C140,Patricia Harris,Madrid,Spain,2023-03-25
+C141,Mary Anderson,Madrid,Spain,2023-01-13
+C142,Robert Sanchez,Madrid,Spain,2023-07-30
+C143,Donald Johnson,Berlin,Germany,2023-03-23
+C144,Amanda Miller,London,UK,2023-01-20
+C145,Daniel Johnson,Tokyo,Japan,2023-04-13
+C146,Ashley Wilson,Tokyo,Japan,2023-06-06
+C147,Andrew Martin,Berlin,Germany,2023-01-13
+C148,Sandra Gonzalez,Berlin,Germany,2023-06-18
+C149,Betty Sanchez,Paris,France,2023-05-23
+C150,Joshua Jones,Toronto,Canada,2023-07-24
+C151,William Taylor,Dubai,UAE,2023-01-15
+C152,Jennifer Sanchez,London,UK,2023-04-02
+C153,Karen Garcia,Singapore,Singapore,2023-01-20
+C154,Nancy Jackson,London,UK,2023-08-11
+C155,John Scott,Toronto,Canada,2023-08-12
+C156,Anthony Flores,Singapore,Singapore,2023-03-01
+C157,Michael Anderson,Sydney,Australia,2023-04-08
+C158,Michael Ramirez,Paris,France,2023-12-29
+C159,Linda Nguyen,Sydney,Australia,2023-09-24
+C160,Susan Walker,Dubai,UAE,2023-07-06
+C161,Kenneth Young,Sydney,Australia,2023-12-07
+C162,Melissa Sanchez,Toronto,Canada,2023-06-10
+C163,Lisa Ramirez,London,UK,2023-09-17
+C164,Richard Gonzalez,Paris,France,2023-06-17
+C165,Susan Garcia,Sydney,Australia,2023-10-11
+C166,Kimberly Perez,Madrid,Spain,2023-08-04
+C167,Joshua Scott,Sydney,Australia,2023-11-12
+C168,Daniel Wilson,Singapore,Singapore,2023-07-27
+C169,Ashley Young,Dubai,UAE,2023-06-05
+C170,David Nguyen,Paris,France,2023-08-09
+C171,Kimberly Smith,Singapore,Singapore,2023-12-02
+C172,Susan Hernandez,Toronto,Canada,2023-08-15
+C173,Anthony Clark,Tokyo,Japan,2023-09-19
+C174,Michael Clark,Tokyo,Japan,2023-12-04
+C175,Thomas Lee,London,UK,2023-09-21
+C176,Barbara Torres,Singapore,Singapore,2023-02-17
+C177,Thomas Davis,Berlin,Germany,2023-04-26
+C178,Elizabeth King,Berlin,Germany,2023-01-13
+C179,Betty Gonzalez,New York,USA,2023-09-01
+C180,Sarah Rodriguez,Singapore,Singapore,2023-08-22
+C181,Anthony Hill,Sydney,Australia,2023-04-10
+C182,Richard Miller,Sydney,Australia,2023-07-24
+C183,Charles Garcia,Berlin,Germany,2023-12-02
+C184,Melissa Scott,New York,USA,2023-08-06
+C185,Patricia Thompson,Berlin,Germany,2023-12-23
+C186,Mark Jones,Dubai,UAE,2023-01-26
+C187,Barbara Miller,Dubai,UAE,2023-03-04
+C188,Sandra Lewis,Tokyo,Japan,2023-08-26
+C189,Patricia Allen,Dubai,UAE,2023-11-01
+C190,Amanda Lee,Toronto,Canada,2023-11-10
+C191,Christopher Thompson,Dubai,UAE,2023-10-08
+C192,Patricia Lee,Tokyo,Japan,2023-09-01
+C193,Karen King,Tokyo,Japan,2023-05-07
+C194,Donna Lopez,Paris,France,2023-09-06
+C195,Deborah Hernandez,Berlin,Germany,2023-08-14
+C196,James Scott,London,UK,2023-05-01
+C197,Emily Rodriguez,Paris,France,2023-06-13
+C198,Amanda Hill,Dubai,UAE,2023-03-12
+C199,Susan Allen,Madrid,Spain,2023-07-16
+C200,James Young,Madrid,Spain,2023-02-02
